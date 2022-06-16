@@ -1,4 +1,4 @@
-![capa github](https://github.com/cygnusivy/EVERTON_NASCIMENTO/capa.png)  
+![capa](capa.png)  
 
 <center>
   <table>
